@@ -1,0 +1,6 @@
+{
+  "name": "TRACERA - Multi-Camera Vehicle Tracking",
+  "description": "AI-powered multi-camera vehicle tracking application with interactive CCTV feeds, vehicle trajectory mapping, traffic analytics, and alert monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
